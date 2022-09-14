@@ -21,3 +21,5 @@
 _Наклонный текст_
 
 [![Моё видео](https://i.ytimg.com/an_webp/7cVwrPYkyRc/mqdefault_6s.webp?du=3000&sqp=CPPvhJkG&rs=AOn4CLC7lOa5j6MJzH7nEbBDa183xJjocw)](https://www.youtube.com/watch?v=7cVwrPYkyRc&t=5s)
+
+![](//placehold.it/150x100)
